@@ -6,7 +6,7 @@
 	<Color name="Punctuation" foreground="#fc618d" />
 	<Color name="MethodCall" foreground="#7bd88f" fontWeight="italic"/>
 	<Color name="Literals" foreground="#948ae3"/>
-	<Color name="Keywords" fontWeight="italic " foreground="#fc618d" />
+	<Color name="Keywords" fontWeight="italic" foreground="#fc618d" />
 	<Color name="Escapes" foreground="#948ae3" />
 
 	<RuleSet>
