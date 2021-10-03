@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <SyntaxDefinition name="Lua" extensions=".lua" xmlns="http://icsharpcode.net/sharpdevelop/syntaxdefinition/2008">
 	<Color name="Comment" foreground="#69676c" fontStyle="italic"/>
-	<Color name="String" foreground="#fce566" />
+	<Color name="String" foreground="#fc618d" />
 	<Color name="Foreground" foreground="#8b888f" />
 	<Color name="Punctuation" foreground="#fc618d" />
 	<Color name="MethodCall" foreground="#7bd88f" fontStyle="italic"/>
